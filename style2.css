@@ -14,30 +14,70 @@ h1 {
 
 .project {
   font-size: 18px;
-  color:grey;
+  color: grey;
   text-align: center;
   background: lightgrey;
-  padding:10px;
-  margin-bottom:20px;
-  width:100%;
-
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 100%;
 }
 
 .detail {
-  color:grey;
   margin-top: 10px;
 }
 
+.text {
+  color: #586a7b;
+}
 
-h4 {
-  color:grey;
+.head {
+  color: #586a7b;
   text-align: center;
 }
 
-.body {
-  color:#586a7b;
+.container {
+  margin: 30px;
 }
 
-.container {
-  margin:  30px;
+/*.myProgress {
+  width: 100%;
+  background-color: #92AFD7;
+}
+
+.mybar {
+  width: 1%;
+  height: 30px;
+  background-color: pink;
+}*/
+
+.select {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  background-color: #92AFD7;
+  padding: 1%;
+  border-radius: 20rem;
+  width: 10rem;
+  color: white;
+  box-shadow: none;
+  border: none;
+}
+
+.done {
+  margin-top: 2rem;
+  padding: 10px;
+}
+
+#myProgress {
+  width: 100%;
+  background-color: #92AFD7;
+}
+
+#myBar {
+  width: 1%;
+  height: 30px;
+  background-color: pink;
 }
