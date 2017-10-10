@@ -1,0 +1,13 @@
+.details {
+  display: none;
+}
+
+.red_button {
+  background-color: pink;
+  border: none;
+
+}
+
+.red_button:hover{
+  background-color:lightblue ;
+}
