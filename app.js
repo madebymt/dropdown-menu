@@ -5,6 +5,7 @@ $(function() {
   });
 });
 
+
 function increase() {
   let elem = document.querySelector("#myBar")
   let width = 10
